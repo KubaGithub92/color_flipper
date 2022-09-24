@@ -1,0 +1,20 @@
+.container {
+  width: 600px;
+  height: 400px;
+  background-color: orangered;
+  display: flex;
+}
+
+.container__button {
+  padding: 2rem;
+  width: 170px;
+  height: 60px;
+  border: 1px solid #000;
+  margin: 0 auto;
+  align-self: center;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-weight: 600;
+  font-size: 1.2rem;
+}
